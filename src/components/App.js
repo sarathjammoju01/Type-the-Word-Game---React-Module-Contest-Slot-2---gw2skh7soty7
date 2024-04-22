@@ -10,6 +10,7 @@ function App() {
   const [result, setResult] = useState('');
   const [index, setIndex] = useState(0);
 
+  console.log('hello');
 
   return (
     <div class="mini-game-container">
